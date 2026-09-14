@@ -4,7 +4,7 @@ Coursework repository for Assignment 1 of **EN3160 (Image Processing and Machine
 Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
 **Index Number:** 230300C
-**Report:** [`230300c_a01.pdf`](./230300C_a01.pdf)
+**Report:** [`230300C_a01.pdf`](./230300C_a01.pdf)
 
 ## Overview
 
