@@ -29,7 +29,7 @@ OpenCV routine where one exists.
 
 ```
 .
-├── en3160_a01.ipynb             
+├── EN3160_A01.ipynb             
 ├── 230300C_a01.pdf          
 ├── images                 
 └── README.md
