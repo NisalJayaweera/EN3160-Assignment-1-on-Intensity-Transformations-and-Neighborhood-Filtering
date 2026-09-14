@@ -29,10 +29,9 @@ OpenCV routine where one exists.
 
 ```
 .
-├── en3160_a01.ipynb        
-├── build_notebook.py        
+├── en3160_a01.ipynb             
 ├── 230300c_a01.pdf          
-├── images/                  
+├── images                 
 └── README.md
 ```
 
