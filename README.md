@@ -29,10 +29,10 @@ OpenCV routine where one exists.
 
 ```
 .
-├── en3160_a01.ipynb        # full notebook: implementation, results, discussion
-├── build_notebook.py        # script that generates en3160_a01.ipynb programmatically
-├── 230300c_a01.pdf          # report, exported directly from the notebook (submission copy)
-├── images/                  # input images used by the notebook
+├── en3160_a01.ipynb        
+├── build_notebook.py        
+├── 230300c_a01.pdf          
+├── images/                  
 └── README.md
 ```
 
